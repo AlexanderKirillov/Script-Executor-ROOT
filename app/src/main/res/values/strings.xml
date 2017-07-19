@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Script Executor</string>
+    <string name="about">About programm</string>
+    <string name="lic">License</string>
+    <string name="pleasewait">Script executing...\n\nPlease wait!</string>
+    <string name="exit">Exit</string>
+    <string name="exittext">Are you sure you want to exit the program?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="back">Press \'back\' again to exit the program</string>
+    <string name="result">Result of the executing:\n</string>
+    <string name="ok">EXECUTING SUCCESSFULLY!</string>
+    <string name="start">To run the script, click the button\n\nRequired Root!</string>
+    <string name="oks">The program will execute any script specified by the user\n\n</string>
+    <string name="lic1">You agree with the agreement</string>
+    <string name="lic2">The developers of the program are not responsible for the unpredictable result of using the program\n\n</string>
+    <string name="root">Root needed to use this app!</string>
+</resources>

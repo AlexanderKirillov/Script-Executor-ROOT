@@ -1,0 +1,20 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 26
+    buildToolsVersion "26"
+    defaultConfig {
+        applicationId "com.scriptexecutor"
+        minSdkVersion 14
+        targetSdkVersion 26
+        versionCode 1
+        versionName "1.0.0"
+    }
+}
+
+dependencies {
+    compile 'com.github.mrengineer13:snackbar:1.2.0'
+    compile 'com.android.support:appcompat-v7:26.0.0-alpha1'
+    compile 'com.github.markushi:circlebutton:1.1'
+    testCompile 'junit:junit:4.12'
+}
