@@ -1,7 +1,5 @@
 # Script Executor [ROOT]
 
-![Screen](http://savepic.ru/14985621.png) ![Screen](http://savepic.ru/14990741.png) ![Screen](http://savepic.ru/14971285.png) ![Screen](http://savepic.ru/14960021.png) 
-
 [![PayPal](https://www.paypalobjects.com/webstatic/mktg/Logo/pp-logo-200px.png)](https://www.paypal.me/nowenui)
 
 # English Description
